@@ -19,6 +19,14 @@ Aoba, meu nome é ItsDayMoon e sou estudante java (minezinho, né)
             src="https://custom-icon-badges.demolab.com/github/followers/ItsDayMoon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="http://discordapp.com/users/1083161330950864906">
+        <img 
+            alt="Discord" 
+            title="Meu DC" 
+            src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+        />
+    </a>
+    	
 </p>
 
 ---
