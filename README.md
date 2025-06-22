@@ -2,7 +2,7 @@
  
 **`Estdante Java`** 
 
-Aoba, meu nome é ItsDayMoon e sou estudante java (minezinho, né)
+Aoba, meu nome é ItsDayMoon e sou estudante java (mine, né)
 
 <p align="left">
     <a href="https://github.com/ItsDayMoon?tab=repositories&sort=stargazers">
