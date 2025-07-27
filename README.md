@@ -2,7 +2,7 @@
  
 **`Estdante Java`** 
 
-Aoba, meu nome é ItsDayMoon e sou estudante java (mine, né)
+Aoba, meu nome é Daymon porém gosto do nome ItsDayMoon, um pouco sobre mim é que eu gosto de fazer pequenos plugins para o minecraft e programar pequenos projetos no esp32 😁
 
 <p align="left">
     <a href="https://github.com/ItsDayMoon?tab=repositories&sort=stargazers">
