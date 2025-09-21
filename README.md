@@ -1,6 +1,6 @@
 # 🤝 ItsDayMoon
  
-**`Estdante Java`** 
+**`Estudante Java`** 
 
 Aoba, meu nome é Daymon e um pouco sobre mim é que eu gosto de fazer plugins para o minecraft e fazer pequenos projetos no esp32 😁
 
