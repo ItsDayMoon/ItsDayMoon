@@ -2,7 +2,7 @@
  
 **`Estdante Java`** 
 
-Aoba, meu nome é Daymon porém gosto do nome ItsDayMoon, um pouco sobre mim é que eu gosto de fazer plugins para o minecraft e programar pequenos projetos no esp32 😁
+Aoba, meu nome é Daymon e um pouco sobre mim é que eu gosto de fazer plugins para o minecraft e fazer pequenos projetos no esp32 😁
 
 <p align="left">
     <a href="https://github.com/ItsDayMoon?tab=repositories&sort=stargazers">
